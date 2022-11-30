@@ -1,3 +1,3 @@
 # Git Basics
 
-Hello world just practicing!
+Hello world, just practicing using github!
