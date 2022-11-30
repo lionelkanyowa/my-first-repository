@@ -1,1 +1,3 @@
-# READ ME #
+# Git Basics
+
+Hello world just practicing!
